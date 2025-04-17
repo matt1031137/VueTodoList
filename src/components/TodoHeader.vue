@@ -7,7 +7,7 @@ import { RouterLink } from 'vue-router';
         <nav class="container">
             <div class="branding">
                 <img src="../assets/Vue_Logo_Black.png" alt="">
-                <h1>Vue 代辦清單</h1>
+                <h1>Vue 待辦清單</h1>
             </div>
             <ul class="nav-routes">
                 <RouterLink to="/">首頁</RouterLink>
